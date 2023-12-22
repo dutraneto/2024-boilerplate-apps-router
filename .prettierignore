@@ -3,5 +3,3 @@
 build
 coverage
 .next
-postcss.config.js
-tailwind.config.ts
