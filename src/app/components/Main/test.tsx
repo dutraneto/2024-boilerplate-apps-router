@@ -9,7 +9,7 @@ describe('<Main />', () => {
 
     // busca o elemento e verifica a existência dele
     expect(
-      screen.getByRole('heading', { name: /boilerplate/i })
+      screen.getByRole('heading', { name: /Boilerplate/i })
     ).toBeInTheDocument()
 
     // gerar snapshot
